@@ -11,7 +11,7 @@ Analyze and visualize ride-sharing data using Python, Pandas, and the Matplotlib
 Results:
 
 Below graph shows summary of data across citytype
-![PyBer_fare_summary.png](PyBer_fare_summary.png)
+![PyBer_fare_summary.png](Resources/PyBer_fare_summary.png)
 The data analysis provides below details:
 
 - Total Rides
@@ -39,7 +39,7 @@ Urban       16.571468
 
 
 - Total fare by city type
-![PyBer_fare_summary.png](PyBer_fare_summary.png)
+![PyBer_fare_summary.png](Resources/PyBer_fare_summary.png)
 
 
 
